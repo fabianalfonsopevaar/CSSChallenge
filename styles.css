@@ -1,0 +1,88 @@
+.background-image-c{
+    background-image: url("Imagenes/bg.png");
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+    height: 300px;
+}
+
+.scroll-button{
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.hover-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0);
+    transition: background 0.5s ease;
+}
+
+.hover-container:hover .overlay {
+    display: block;
+    background: rgba(0, 0, 0, .3);
+}
+
+.over-button {
+    position: absolute;
+    width: 370px;
+    left:0;
+    top: 300px;
+    text-align: center;
+    opacity: 0;
+    transition: opacity .35s ease;
+}
+
+.over-button a {
+    width: 200px;
+    padding: 12px 48px;
+    text-align: center;
+    color: white;
+    border: solid 2px white;
+    z-index: 1;
+}
+
+.hover-container:hover .over-button {
+    opacity: 1;
+} 
+
+
+.footer-link{
+    color: white;
+    text-decoration: none;
+}
+
+.footer-btn{
+    color: white;
+    padding: 0;
+}
+
+.bg-darkblue{
+    background-color: #13193e; 
+    color: white;
+}
+
+.mt-50px{
+    margin-top: 50px;
+}
+.ml-50px{
+    margin-left: 50px;
+}
+
+.fs-15px{
+    font-size: 15px;
+}

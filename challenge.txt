@@ -1,0 +1,54 @@
+Hola Colaborador Fabian Alfonso, desde mañana empiezas un code challenge, en donde demostraras las habilidades aprendidas en el Learning path que terminaste recientement. 
+
+La duración del challenge es de 2 semanas y debes utilizar las 2 horas de estudio diario.  
+Fecha de entrega del challenge: 04-02-2022
+
+
+
+Debes replicar visualmente el mockup y funcionalmente tal cual el video entregado en los adjuntos de la página web de una constructora, donde deberás tener en cuenta las siguientes premisas: 
+
+ 
+
+Debes utilizar Jquery o Javascript para realizar la navegación entre las páginas. 
+
+Debes utilizar Jquery o Javascript para realizar el ScrollTop de la primera página. 
+
+Debes utilizar Bootstrap. 
+
+Debes utilizar SASS 
+
+Debes tener el carrusel de imágenes. 
+
+Debes agregar la ubicación desde Google maps.  
+
+Debes tener el popup, con la imagen del plano. 
+
+Se debe navegar de una página a otra. 
+
+ 
+
+Entregables: 
+
+Debes entregar el código HTML, CSS, SASS, JS por separado. 
+
+Debes entregarlo en un archivo ZIP para la revisión.  
+
+ 
+
+Recursos: 
+
+ 
+
+Mockup de la página de la constructora 
+
+Video de como debe funcionar la página 
+
+Las imágenes las encuentras en la carpeta denominada "Imágenes" 
+
+  
+
+Nota: Debes utilizar las mejores prácticas de programación que conozca (ej.: Estructura de HTML5 y Estilos en CSS3...) 
+
+ 
+
+ 
